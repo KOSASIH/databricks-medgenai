@@ -1,0 +1,16 @@
+patient_id,diagnosis,age,gender,treatment
+1,1,45,M,Placebo
+1,1,45,M,Placebo
+1,1,45,M,Placebo
+...
+2,0,55,F,Drug A
+2,0,55,F,Drug A
+2,0,55,F,Drug A
+...
+3,1,60,M,Placebo
+3,1,60,M,Placebo
+3,1,60,M,Placebo
+...
+1000,0,70,F,Drug B
+1000,0,70,F,Drug B
+1000,0,70,F,Drug B
