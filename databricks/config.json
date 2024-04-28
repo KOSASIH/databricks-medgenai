@@ -1,0 +1,53 @@
+{
+  "name": "MedGenAI",
+  "description": "Generative AI for Personalized Medicine",
+  "version": "1.0.0",
+  "author": "MedGenAI Team",
+  "email": "medgenai@example.com",
+  "license": "MIT",
+  "features": [
+    {
+      "name": "Genomic Data Processing",
+      "description": "Process genomic data using Spark and MLlib",
+      "scripts": [
+        "scripts/process_genomic_data.py"
+      ]
+    },
+    {
+      "name": "Clinical Data Processing",
+      "description": "Process clinical data using Spark and MLlib",
+      "scripts": [
+        "scripts/process_clinical_data.py"
+      ]
+    },
+    {
+      "name": "Generative Model Training",
+      "description": "Train generative models using TensorFlow or PyTorch",
+      "scripts": [
+        "scripts/train_generative_model.py"
+      ]
+    },
+    {
+      "name": "Model Evaluation",
+      "description": "Evaluate generative models using Spark and MLlib",
+      "scripts": [
+        "scripts/evaluate_model.py"
+      ]
+    },
+    {
+      "name": "Model Deployment",
+      "description": "Deploy generative models using Databricks Model Serving",
+      "scripts": [
+        "scripts/deploy_model.py"
+      ]
+    }
+  ],
+  "dependencies": {
+    "pyspark": ">=3.0.0",
+    "tensorflow": ">=2.4.0",
+    "pytorch": ">=1.7.0",
+    "scikit-learn": ">=0.24.0",
+    "numpy": ">=1.19.0",
+    "pandas": ">=1.1.0"
+  }
+}
