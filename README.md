@@ -74,7 +74,7 @@ MedGenAI is released under the MIT License. See the LICENSE file for more inform
 
 # Contact
 
-For any questions or feedback, please contact the MedGenAI team at medgenai@example.com.
+For any questions or feedback, please contact the MedGenAI team at info@medgenai.com.
 
 # Acknowledgements
 
